@@ -37,15 +37,15 @@ Here are a few highlights (add your repos with links):
 ---
 
 ## 📈 GitHub Stats
-![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Mirza's GitHub stats]()  
+![Top Langs]()  
 
 ---
 
 ## 📫 Connect with Me
-- 🌐 Portfolio: [YourPortfolioLinkHere]  
-- 💼 LinkedIn: [YourLinkedInHere]  
-- ✉️ Email: [YourEmailHere]  
+- 🌐 Portfolio: []  
+- 💼 LinkedIn: []  
+- ✉️ Email: []  
 
 ---
 ⭐️ *Feel free to check out my repositories and contribute or collaborate!*  
