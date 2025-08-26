@@ -4,35 +4,25 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Passionate Full-Stack Developer with experience building scalable and modern web applications.  
-- 💻 Strong background in **MERN Stack** development (MongoDB, Express.js, React.js, Node.js).  
-- ⚡ Skilled in **React.js, Vite.js, Next.js, and SASS** for creating fast, responsive, and beautiful UIs.  
-- 🔥 Love solving real-world problems with clean, maintainable code.  
+🌱 Passionate about building scalable, modern applications  
+💻 MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+⚡ Skilled in React.js, Vite.js, Next.js, SASS  
+🔥 Focused on clean, maintainable code  
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Frontend:**  
-React.js | Next.js | Vite.js | JavaScript (ES6+) | HTML5 | CSS3 | SASS  
-
-**Backend:**  
-Node.js | Express.js | REST APIs  
-
-**Database:**  
-MongoDB | Mongoose  
-
-**Tools & Others:**  
-Git | GitHub | npm/yarn | VS Code | Postman  
+**Frontend:** React.js · Next.js · Vite.js · JS (ES6+) · HTML5 · CSS3 · SASS  
+**Backend:** Node.js · Express.js · REST APIs  
+**Database:** MongoDB · Mongoose  
+**Tools:** Git · GitHub · npm/yarn · VS Code · Postman  
 
 ---
 
 ## 🚀 Projects
-Here are a few highlights (add your repos with links):  
-
-- 🏠 **Home Services Landing Page** – Built with Next.js, Tailwind, and integrated contact forms.  
-- 📊 **Dashboard Application** – MERN stack app with authentication and CRUD operations.  
-- 🌐 **Portfolio Website** – Responsive personal portfolio using React + Vite.  
+- 🏠 **Home Services Landing Page** – Next.js + Tailwind + forms  
+- 📊 **Dashboard Application** – MERN CRUD with auth  
+- 🌐 **Portfolio Website** – React + Vite  
 
 ---
 
@@ -43,9 +33,10 @@ Here are a few highlights (add your repos with links):
 ---
 
 ## 📫 Connect with Me
-- 🌐 Portfolio: []  
-- 💼 LinkedIn: []  
-- ✉️ Email: []  
+🌐 Portfolio: [link]  
+💼 LinkedIn: [link]  
+✉️ Email: [your@email.com]  
 
 ---
-⭐️ *Feel free to check out my repositories and contribute or collaborate!*  
+
+⭐ Feel free to check out my repositories and collaborate!
