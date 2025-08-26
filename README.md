@@ -27,15 +27,15 @@
 ---
 
 ## 📈 GitHub Stats
-![Mirza's GitHub stats]()  
-![Top Langs]()  
+[Mirza's GitHub stats]()  
+[Top Langs]()  
 
 ---
 
 ## 📫 Connect with Me
-🌐 Portfolio: [link]  
-💼 LinkedIn: [link]  
-✉️ Email: [your@email.com]  
+🌐 Portfolio: []  
+💼 LinkedIn: []  
+✉️ Email: []  
 
 ---
 
